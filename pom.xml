@@ -18,6 +18,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
+            <!-- Commented out scope tag so CircleCI builds successfully. -->
             <!--<scope>test</scope>-->
         </dependency>
     </dependencies>
